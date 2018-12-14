@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Italianno');
+
 .App {
   height: 100vh;
   width: 100vw;
@@ -22,6 +24,7 @@
   flex-direction: row;
   padding: 1em;
   justify-content: center;
+  position: relative;
 }
 
 #michele {
@@ -47,4 +50,48 @@
 
 .about-boyd {
   text-align: left;
+}
+
+.photos {
+  padding: 1em;
+}
+
+.video {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.contact input {
+  height: 10%;
+  width: 30%;
+}
+
+.fade-michele {
+  position: absolute;
+  z-index: 2;
+  bottom: 1em;
+  left: 19vw;
+  font-family: 'Italianno', cursive;
+  color: white;
+  font-size: 2.5em;
+}
+
+.fade-boyd {
+  position: absolute;
+  z-index: 2;
+  bottom: 1em;
+  right: 21vw;
+  font-family: 'Italianno', cursive;
+  color: white;
+  font-size: 2.5em;
 }
