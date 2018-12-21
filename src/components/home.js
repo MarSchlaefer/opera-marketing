@@ -8,9 +8,11 @@ const Home = () => {
   return(
     <div className="home">
       <Fader name="michele"/>
+      <Fader voice="soprano"/>
       <img id="michele" src= { michele } alt=""/>
       <img id="boyd" src= { boyd } alt=""/>
       <Fader name="boyd"/>
+      <Fader voice="baritone"/>
     </div>
   )
 }
