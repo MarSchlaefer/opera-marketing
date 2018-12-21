@@ -1,6 +1,6 @@
 import React from 'react';
 import michele from '../images/Michele.jpg'
-import boyd from '../images/Boyd-Head-shot-2015.jpg'
+import boyd from '../images/Boyd.jpg'
 
 const About = () => {
 
@@ -13,6 +13,7 @@ const About = () => {
         <div className="about-text">
           <h1>About Michele</h1>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam elementum gravida iaculis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non lobortis urna. Vestibulum vel diam pulvinar, mattis libero eget, volutpat tellus. Quisque non feugiat urna. Fusce efficitur in dolor lacinia blandit. Ut ut mauris sit amet ipsum suscipit ornare eu id sem. Phasellus posuere urna at ante rhoncus sodales. Phasellus facilisis nunc nibh, id blandit mi pretium quis. Integer semper id orci vitae pharetra. Vestibulum pulvinar pulvinar varius.</p>
+          <p>Donec sit amet dictum risus. In commodo ullamcorper nisi sed bibendum. Morbi sed ante eget ligula eleifend eleifend ut sed est. Praesent eu massa tortor. Donec mollis dictum elementum. Cras et augue odio. Vivamus ultricies velit nec mauris posuere cursus. Etiam vitae blandit justo, id tincidunt ipsum. Sed non odio eget eros dapibus rutrum. Vestibulum molestie augue eros, ut sollicitudin dolor cursus ut. Nulla sit amet leo a nulla sollicitudin blandit. Nam consectetur mi nunc, ac consequat enim cursus ut. In imperdiet erat et lectus blandit, ac pretium tortor ultricies.</p>
           <p>Donec sit amet dictum risus. In commodo ullamcorper nisi sed bibendum. Morbi sed ante eget ligula eleifend eleifend ut sed est. Praesent eu massa tortor. Donec mollis dictum elementum. Cras et augue odio. Vivamus ultricies velit nec mauris posuere cursus. Etiam vitae blandit justo, id tincidunt ipsum. Sed non odio eget eros dapibus rutrum. Vestibulum molestie augue eros, ut sollicitudin dolor cursus ut. Nulla sit amet leo a nulla sollicitudin blandit. Nam consectetur mi nunc, ac consequat enim cursus ut. In imperdiet erat et lectus blandit, ac pretium tortor ultricies.</p>
         </div>
       </div>

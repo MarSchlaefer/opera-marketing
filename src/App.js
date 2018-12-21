@@ -22,7 +22,9 @@ class App extends Component {
     return (
       <div className="App">
         <Header handleClick={this.handleClick}/>
-        {this.renderContent()}
+        <div className="content">
+          {this.renderContent()}
+        </div>
         <Footer />
       </div>
     );

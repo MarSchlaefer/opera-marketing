@@ -6,6 +6,10 @@ class Video extends Component {
     return <div className="video">
       <h1>Videos</h1>
       <ReactPlayer url='https://www.youtube.com/watch?v=ropsFY0U2xQ'/>
+      <br />
+      <ReactPlayer url='https://www.youtube.com/watch?v=5taghtpjoBg'/>
+      <br />
+      <ReactPlayer url='https://www.youtube.com/watch?v=aM-4FfuyPx0'/>
     </div>
   }
 }
